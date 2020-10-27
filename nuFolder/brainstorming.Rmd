@@ -8,6 +8,7 @@ output: html_document
 
 ## Studying x3ptools
 
+library(x3ptools)
 
 
 ## Studying toolmaRk
